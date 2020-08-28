@@ -7,7 +7,7 @@
 [![][Javadocs img]][Javadocs]
 
 Fast, simple, reliable.  HikariCP is a "zero-overhead" production ready JDBC connection pool.  At roughly 130Kb, the library is very light.  Read about [how we do it here](https://github.com/brettwooldridge/HikariCP/wiki/Down-the-Rabbit-Hole).
-
+<h2>daihongtao 数据库连接池研究</h2></br>
 &nbsp;&nbsp;&nbsp;<sup>**"Simplicity is prerequisite for reliability."**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *Edsger Dijkstra*</sup>
 
